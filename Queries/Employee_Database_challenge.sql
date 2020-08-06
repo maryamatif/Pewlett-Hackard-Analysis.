@@ -135,7 +135,6 @@ WHERE to_date = ('9999-01-01')
 ORDER BY emp_no, from_date DESC;
 SELECT * FROM mentorship_eligibility
 
-DROP TABLE mentorship_eligibility;
 
 
 
